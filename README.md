@@ -12,8 +12,6 @@ Super Six is a simple and engaging web-based cricket game built using HTML, CSS,
 
 **Game Result:** The game declares the result (Win, Lose, or Draw) based on the player's performance against the computer-generated target.
 
-**Responsive Design:** The game is designed to be visually appealing and responsive across various devices.
-
 ## Technologies Used
 
 **HTML:** Structures the content and layout of the game interface.
